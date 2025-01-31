@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Nikita!
+💻 Frontend Lead at Akitra | 🚀 Passionate about building scalable and user-friendly web applications
 
-<!--
-**Natalya732/Natalya732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 What I Do
+⚛️ React & TypeScript – Building robust UI components
+📊 PrimeReact & Tailwind – Styling & performance optimization
+🔍 GraphQL & Supabase – Exploring efficient data fetching
+🔧 Problem-Solving – Focused on clean code and best practices
+🌱 Currently Learning
+📚 Advanced JavaScript & TypeScript
+🔍 GraphQL & Backend Integrations
+💡 Optimizing Frontend Performance
+💬 Let’s Connect!
+🚀 Open to collaborations & discussions on frontend development!
